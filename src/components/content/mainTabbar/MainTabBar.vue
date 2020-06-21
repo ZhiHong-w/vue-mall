@@ -1,4 +1,4 @@
-<template>
+ <template>
   <tab-bar>
     <tab-bar-item link="/home">
       <img slot="icon" src="~assets/img/tabbar/home.svg" alt="">
